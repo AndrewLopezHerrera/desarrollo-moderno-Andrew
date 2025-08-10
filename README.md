@@ -430,3 +430,11 @@ Creados utilizando lenguaje y tecnología del lado del servidor, los sitios web 
 3. Se está subiendo los archivos por medio de GitHub Desktop
 
 ![Pantallazo subiendo los archivos](SubiendoArchivos.png)
+
+4. Se subió el proyecto a Netlify
+
+![Pantallazo hub de Netlify](HubNetlify.png)
+
+5. El sitio ya se encuentra disponible
+
+![Pantallazo del sitio](Sitio.png)
