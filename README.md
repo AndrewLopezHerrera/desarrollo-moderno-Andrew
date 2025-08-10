@@ -207,6 +207,18 @@ El parche virtual a través de WAF no solo proporciona beneficios en términos d
 
 ## 4. Aplicaciones reales en plataformas modernas.
 
+**HTTPS:**  El protocolo de transferencia de hipertexto seguro (HTTPS) es la versión segura de HTTP, que es el principal protocolo utilizado para enviar datos entre un navegador web y un sitio web. El HTTPS está encriptado para aumentar la seguridad de las transferencias de datos. Esto es especialmente importante cuando los usuarios transmiten datos confidenciales, como al iniciar sesión en una cuenta bancaria, un servicio de correo electrónico o un proveedor de seguros médicos.
+
+**CORS:** El uso compartido de recursos entre orígenes (CORS) es un mecanismo para integrar aplicaciones. CORS define una forma con la que las aplicaciones web clientes cargadas en un dominio pueden interactuar con los recursos de un dominio distinto. Esto resulta útil porque las aplicaciones complejas suelen hacer referencia a API y recursos de terceros en el código del cliente. Por ejemplo, la aplicación puede utilizar su navegador para extraer videos de la API de una plataforma de video, utilizar fuentes de una biblioteca pública de fuentes o mostrar datos meteorológicos de una base de datos meteorológica nacional. CORS permite que el navegador del cliente compruebe con los servidores de terceros si la solicitud está autorizada antes de realizar cualquier transferencia de datos.
+
+**Sucuri:** Sucuri brinda protección al sitio web al ofrecer una variedad de funciones y servicios de seguridad que trabajan juntos para ayudar a prevenir ataques, detectar vulnerabilidades y responder rápidamente a incidentes de seguridad. Estas son algunas de las formas en que Sucuri puede ayudar a proteger sitios web:
+
+  - **Escaneo y eliminación de malware:** Sucuri proporciona escaneo regular de malware para detectar cualquier código o archivo malicioso en un sitio web. Si se detecta malware, Sucuri puede ayudar a eliminarlo de forma rápida y segura.
+  - **Firewall de aplicaciones web (WAF):** WAF de Sucuri es una solución basada en la nube que puede ayudar a proteger los sitios web de ataques comunes basados en la web, como inyección SQL, secuencias de comandos entre sitios y ataques de fuerza bruta.
+  - **Red de distribución de contenidos (CDN):** La CDN de Sucuri puede ayudar a mejorar el rendimiento del sitio web y reducir el tiempo de inactividad al almacenar contenido en caché y distribuirlo entre múltiples servidores.
+  - **Certificados SSL:** Sucuri ofrece certificados SSL para ayudar a cifrar el tráfico del sitio web y proteger datos confidenciales como nombres de usuario, contraseñas e información de pago.
+  - **Alertas y monitoreo de seguridad:** Sucuri proporciona alertas y monitoreo en tiempo real para ayudar a los propietarios de sitios web a mantenerse informados sobre posibles amenazas y vulnerabilidades de seguridad.
+
 # 4. Gestores de contenido desacoplados (Headless CMS)
 
 ## 1. Definición de Headless CMS vs CMS tradicional.
